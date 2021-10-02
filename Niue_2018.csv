@@ -1,4 +1,4 @@
- Date & UTC Time,Sea_Level,Water Temperature,Air Temperature,Barometric Pressure,Residuals,Adjusted Residuals,Wind Direction,Wind Gust,Wind Speed,Niue
+ Date & UTC Time,SSH,SST,Temp,Pressure,Residuals,Adjusted Residuals,Wind_Direction,Wind_Gust,Wind_Speed,Niue
 01-Jan-2018 00:00, 0.406,  27.0,  27.1, 1010.5,-0.022,-0.045,   13,   3.1,   0.9
 01-Jan-2018 01:00, 0.569,  27.2,  27.6, 1010.1,-0.031,-0.059,   10,   3.7,   0.9
 01-Jan-2018 02:00, 0.816,  27.2,  27.9, 1009.8,-0.033,-0.065,    6,   3.5,   0.9
